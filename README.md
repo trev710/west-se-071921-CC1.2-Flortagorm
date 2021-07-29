@@ -56,3 +56,7 @@ As a user, I can:
 2. Click on the thumbs up icon to increase image likes on the page. Don't worry about saving the new likes to the database.
 
 3. Add a new comment to the page when the comment form is submitted. Again, you don't have to save the comments to the database.
+
+## DEMO
+
+![demo gif](assets/flort.gif)
