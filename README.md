@@ -1,4 +1,4 @@
-# Flatagram
+# FLORTAGORM
 
 Today you'll be building an app for viewing, liking, and commenting on a single
 picture. You will be using a remote API and building out the frontend for our
