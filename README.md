@@ -10,7 +10,7 @@ You will be getting your data from a remote API. Use this URL to get your unique
 
 https://distinct-vaulted-freesia.glitch.me/image 
 
-Hit that URL in your browser to see the data, and verify that it's working for you. 
+Hit that URL in your browser to see the data, and verify that it's working for you. (If it's been a while, the server may take a second to spin up.)
 
 Then, open the `index.html` file in your browser to load your application.
 
@@ -28,29 +28,29 @@ As a user, I can:
    ```txt
    // https://distinct-vaulted-freesia.glitch.me/image
 
-{
-  "id": 437,
-  "title": "The Secrets of the Dwindling Scent",
-  "likes": 3,
-  "image": "https://picsum.photos/id/437/500",
-  "comments": [
-    {
-      "id": 1,
-      "imageId": 437,
-      "content": "The Missing Game of the Man"
-    },
-    {
-      "id": 2,
-      "imageId": 437,
-      "content": "Fire in the Healer"
-    },
-    {
-      "id": 3,
-      "imageId": 437,
-      "content": "Vacant Flame"
-    }
-  ]
-}
+   {
+     "id": 437,
+     "title": "The Secrets of the Dwindling Scent",
+     "likes": 3,
+     "image": "https://picsum.photos/id/437/500",
+     "comments": [
+       {
+         "id": 1,
+         "imageId": 437,
+         "content": "The Missing Game of the Man"
+       },
+       {
+         "id": 2,
+         "imageId": 437,
+         "content": "Fire in the Healer"
+       },
+       {
+         "id": 3,
+         "imageId": 437,
+         "content": "Vacant Flame"
+       }
+     ]
+   }
    ```
 
 2. Click on the thumbs up icon to increase image likes on the page. Don't worry about saving the new likes to the database.
